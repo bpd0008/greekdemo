@@ -1,1 +1,1 @@
-# greekdemo
+# Instructor Demo
